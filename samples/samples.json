@@ -1,0 +1,6 @@
+[
+  {"video":"s1.mp4","thumb":"s1.jpg","title":"Mandelbrot deep zoom","description":"Sample clip. An 8 second zoom into the Mandelbrot set, drawn by computer.","category":"Art","duration":8},
+  {"video":"s2.mp4","thumb":"s2.jpg","title":"Game of Life in amber","description":"Sample clip. Conway's Game of Life: simple rules that make patterns grow and fade.","category":"Tech","duration":8},
+  {"video":"s3.mp4","thumb":"s3.jpg","title":"Rule 110, line by line","description":"Sample clip. Each new row is worked out from the row above it.","category":"Learning","duration":8},
+  {"video":"s4.mp4","thumb":"s4.jpg","title":"Slow colour drift","description":"Sample clip. Soft moving gradients in the StreamNest colours.","category":"Art","duration":8}
+]
